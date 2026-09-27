@@ -1,0 +1,21 @@
+*.iml
+.gradle
+local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+
+# Android Studio
+.idea/*
+!.idea/codeStyles/
+!.idea/runConfigurations/
+
+# App module build output
+app/build
+
+# Wrapper distribution cache (keep the wrapper jar/properties/scripts themselves)
+gradle/wrapper/dists/

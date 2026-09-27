@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. Compose renders the actual UI (see ui/theme);
+         this XML theme just sets the window background before Compose takes over. -->
+    <style name="Theme.SmartHomeMonitor" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

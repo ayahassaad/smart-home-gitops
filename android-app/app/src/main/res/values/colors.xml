@@ -1,0 +1,7 @@
+<resources>
+    <color name="normal_green">#FF1B873F</color>
+    <color name="normal_green_surface">#FFE7F6EC</color>
+    <color name="alert_red">#FFB3261E</color>
+    <color name="alert_red_surface">#FFFCE8E6</color>
+    <color name="ic_launcher_background">#FF1B873F</color>
+</resources>
