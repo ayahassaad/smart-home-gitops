@@ -3,5 +3,5 @@
   "living_room_lights": "OFF",
   "hvac_mode": "AUTO",
   "security_system": "ARMED",
-  "last_updated_by": "Android-Operator"
+  "last_updated_by": "EcoAgent"
 }
